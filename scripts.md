@@ -1,8 +1,8 @@
-# Scripts
+## Sending custom metrics to Dynatrace from a Linux machine every 15 seconds
 
 In this section, you will find scripts that you would find useful
 
-## Sending custom metrics to Dynatrace from a Linux machine every 15 seconds
+## Script approach
 
 * This script extracts Wireless LAN signal strength using the `iwconfig` command 
 * It extracts the system temperature from the file: `cat /sys/class/thermal/thermal_zone*/temp`
